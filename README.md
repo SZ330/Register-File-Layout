@@ -24,6 +24,7 @@ total area of **3,583.49 μm²**.
 This register file was designed as part of **EE 476** at the
 **University of Washington**, instructed by **Prof. Ang Li**.
 
-Among all class submissions, this design achieved the top 3 **highest operating
-frequency**, **lowest energy consumption**, and **smallest layout area** in the
-final project evaluation.
+Among all class submissions, this design ranked within the **top three** for
+operating frequency, energy consumption, and layout area in the final project
+evaluation.
+
