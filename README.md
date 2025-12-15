@@ -19,3 +19,11 @@ Post-layout simulations account for parasitic effects and confirm correct
 functionality at a maximum clock frequency of **2.7 GHz**. The final post-layout
 register file occupies an area of **79.58 μm × 45.03 μm**, corresponding to a
 total area of **3,583.49 μm²**.
+
+## Project Context and Recognition
+This register file was designed as part of **EE 476** at the
+**University of Washington**, instructed by **Prof. Ang Li**.
+
+Among all class submissions, this design achieved the top 3 **highest operating
+frequency**, **lowest energy consumption**, and **smallest layout area** in the
+final project evaluation.
