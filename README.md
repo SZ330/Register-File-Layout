@@ -1,5 +1,5 @@
 ## Summary
-This project implements a **16 × 13-bit register file** using custom CMOS logic and layout in **Cadence Virtuoso**. The design consists of a **4-to-16 wordline decoder**, a **16 × 13 array of DFF-based storage elements**, and a **per-bit 16:1 read multiplexer network**.
+This project implements a **16-bit × 13-entry register file** using custom CMOS logic and layout in **Cadence Virtuoso**. The design consists of a **4-to-16 wordline decoder**, a **16 × 13 array of DFF-based storage elements**, and a **per-bit 16:1 read multiplexer network**.
 
 Each register stores 13 bits and is selected via a 4-bit address. Write operations occur on the active clock edge when the write enable is asserted, while read operations are combinational. The register file uses **edge-triggered D flip-flops** for storage rather than SRAM bitcells.
 
